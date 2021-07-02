@@ -1,0 +1,10 @@
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.exe.config
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.exe
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.pdb
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.csprojAssemblyReference.cache
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.Properties.Resources.resources
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.csproj.GenerateResource.cache
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.csproj.CoreCompileInputs.cache
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.exe
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.pdb
+E:\Diplomski FOI IPI\1. Semestar\OS2\Lab projekt\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.StartForm.resources
